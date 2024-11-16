@@ -1,6 +1,7 @@
 package main
 
 func main(){
-	helloWorld()
-	calci()
+	// helloWorld()
+	// calci()
+	conditional()
 }
