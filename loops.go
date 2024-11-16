@@ -17,8 +17,21 @@ func loops() {
 
 	// Standard for loop
 
-	for i:=0 ; i<=5 ; i++{
-		fmt.Println(i)
+	// for i:=0 ; i<=5 ; i++{
+	// 	fmt.Println(i)
+	// }
+
+
+	// continue and break 
+
+	for i:=0 ; i<10 ; i++{
+		if i==2{
+			continue
+		}else if i==9 {
+			break
+		}else{
+			fmt.Println(i)
+		}
 	}
 
 }
