@@ -12,5 +12,6 @@ func main(){
 	//fmt.Println(addition(10,20))
 	//switch_statements()
 
-	calculator()
+	// calculator()
+	human()
 }
