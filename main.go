@@ -13,5 +13,6 @@ func main(){
 	//switch_statements()
 
 	// calculator()
-	human()
+	//human()
+	isValidAge()
 }
