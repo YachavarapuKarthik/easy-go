@@ -10,5 +10,7 @@ func main(){
 	// arrays()
 	//slice()
 	//fmt.Println(addition(10,20))
-	switch_statements()
+	//switch_statements()
+
+	calculator()
 }
