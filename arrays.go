@@ -11,4 +11,9 @@ func arrays(){
 	for i:=0 ; i<len(array) ; i++{
 		fmt.Print(array[i], " ")
 	}
+ 
+	for _,val := range array {
+		fmt.Printf("Index: %d\n", val)
+	}
+	
 }
