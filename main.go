@@ -14,5 +14,6 @@ func main(){
 
 	// calculator()
 	//human()
-	isValidAge()
+	//isValidAge()
+	MapCreation()
 }
