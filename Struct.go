@@ -11,4 +11,15 @@ type Person struct{
 func PersonImp(){
 	karthik := Person{name:"karthik",age:20,id:65}
 	fmt.Println(karthik)
+
+	// Anonymous Struct
+
+	person1 := struct{
+		name string
+		age int
+	}{
+		name:"Karthik",
+		age :21,
+	}
+	fmt.Println(person1)
 }
