@@ -15,5 +15,6 @@ func main(){
 	// calculator()
 	//human()
 	//isValidAge()
-	MapCreation()
+	//MapCreation()
+	StartServer()
 }
