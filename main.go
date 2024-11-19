@@ -18,5 +18,6 @@ func main(){
 	//MapCreation()
 	//StartServer()
 	//TimeCalculation()
-	PersonImp()
+	//PersonImp()
+	index()
 }
