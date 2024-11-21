@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"net/http"
 )
 
@@ -10,6 +11,10 @@ func htmlServer(w http.ResponseWriter, r *http.Request){
 
 func index(){
 	http.HandleFunc("/",htmlServer)
-	_ = http.ListenAndServe(":8080",nil)
+	err := http.ListenAndServe(":8080",nil)
+
+	if err != nil{
+		fmt.Println("Errror")
+	}
 
 }
