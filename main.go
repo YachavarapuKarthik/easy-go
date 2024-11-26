@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+//import "fmt"
 
 func main(){
 	// helloWorld()
@@ -21,5 +21,7 @@ func main(){
 	//PersonImp()
 	// index()
 	// mainTask()
-	fmt.Println("Area of that rectangle",imp())
+	//fmt.Println("Area of that rectangle",imp())
+	errThrow()
+
 }
