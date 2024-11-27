@@ -5,7 +5,7 @@ import (
 )
 
 func errorThroowing() error{
-	return fmt.Errorf("Hii welcome errooros🙂")
+	return fmt.Errorf("Helllo errors 😝")
 }
 
 func errThrow(){
