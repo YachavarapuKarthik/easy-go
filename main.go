@@ -23,6 +23,6 @@ func main(){
 	// mainTask()
 	//fmt.Println("Area of that rectangle",imp())
 	//errThrow()
-	amazonScrape()
-
+	//amazonScrape()
+	connect()
 }
