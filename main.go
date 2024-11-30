@@ -24,5 +24,6 @@ func main(){
 	//fmt.Println("Area of that rectangle",imp())
 	//errThrow()
 	//amazonScrape()
-	connect()
+	//connect()
+	ip_finder()
 }
