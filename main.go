@@ -25,5 +25,6 @@ func main(){
 	//errThrow()
 	//amazonScrape()
 	//connect()
-	ip_finder()
+	//ip_finder()
+	dns_to_ip()
 }
