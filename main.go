@@ -26,5 +26,6 @@ func main(){
 	//amazonScrape()
 	//connect()
 	//ip_finder()
-	dns_to_ip()
+	//dns_to_ip()
+	emj()
 }
